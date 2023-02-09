@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ChallengeApp1
+﻿namespace ChallengeApp1
 {
     class Program
     {
